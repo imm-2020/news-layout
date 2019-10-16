@@ -1,6 +1,6 @@
 # In-Class Project
 
-## To complete
+## Part 1
 
 - [ ] Ensure the content in the `.news` stories is all left-aligned
 - [ ] Add padding to the stories such that the image will still touch the edges of the `.news` item, but the text will have `1em` on the left and right sides
@@ -14,8 +14,8 @@
     ```
   Each number should be independently clickable to link to another page (`page2.html`, etc). Show "1" to appear "active" (ie, you are currently viewing page 1) by adding a class in the appropriate place.
 
-## Also think about
+## Part 2
 
-Execute if you have time:
+- [ ] Turn the layout into a grid when necessary (based on your subjective observation) using a breakpoint
+- [ ] If necessary, crop the height of the images using CSS (so they don't grow to be too tall as the page grows in width)
 
-- Crop the height of the images using CSS (so they don't grow to be too tall as the page grows in width)
